@@ -91,3 +91,9 @@ ethfs-cli upload -f dist -a (flat-adresimiz) -c 11155111 -p (private-keyimiz) -t
 
 ### Bu şekilde tx çıktısı atmamız gerekiyor. Birkaç defa bu işlemi yapsak iyi olur En azından ben öyle yaptım.
 
+
+### Bu kısımda dApp'imize web3 üzerinden erişelim. 
+
+```console
+web3://flat-adresimiz:11155111/app.html
+```
