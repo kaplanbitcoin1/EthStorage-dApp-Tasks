@@ -140,7 +140,7 @@ eth-blob-uploader -r (Sepolia RPC) -p (Private-Key) -f dist/degen.jpeg -t (FlatD
 
 
 ### Son olarak dApp'imizi ETH+EthStorage ile dağıtalım. (Bu opsiyonel) 
-### Sunucudan app.html ve degen.jpeg dosyasını: 'app1.html ve degen1.jpeg' olarak değiştirin.
+### Sunucudan app.html ve degen.jpeg dosyasını: app1.html ve degen1.jpeg olarak değiştirin.
 
 ```console
 ethfs-cli create -p (Private-Key) -c 11155111
