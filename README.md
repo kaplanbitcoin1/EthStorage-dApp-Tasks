@@ -2,7 +2,7 @@
 
 
 
-# Ardından bu 'dist' klasörü içine: (app.html ve degen.jpeg dosyalarını) ekleyelim.
+## Ardından bu 'dist' klasörü içine: (app.html ve degen.jpeg dosyalarını) ekleyelim.
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-### app.html içine bu kodu yapıştırıyoruz:
+# app.html içine bu kodu yapıştırıyoruz:
 
 
 
