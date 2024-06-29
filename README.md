@@ -60,15 +60,14 @@ contract App {
 }
 ```
 
-- Ethfs-cli'yi yükleyelim.
+### Ethfs-cli'yi yükleyelim.
 
 ```shell
 npm i -g ethfs-cli
 ```
 
-```console
-FlatDirectory Contract Oluşturalım.
-```
+
+### FlatDirectory Contract Oluşturalım.
 
 (Bu kod bize ileride kullanacağımız Flat adresimizi ve ip adresini verecek. Kaydetmeyi unutmayın.)
   
