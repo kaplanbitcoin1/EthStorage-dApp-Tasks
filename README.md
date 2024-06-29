@@ -78,3 +78,10 @@ npm i -g ethfs-cli
 ethfs-cli create -p "Private Key" -c 11155111
 ```
 
+
+### Uygulamamızı Deploy edelim.
+
+```console
+ethfs-cli upload -f dist -a <flat-adresimiz> -c 11155111 -p <private-keyimiz> -t 1
+```
+
