@@ -3,10 +3,8 @@
 
 
 
++ Ardından bu 'dist' klasörü içine: (app.html ve degen.jpeg dosyalarını) ekleyelim.
 
-```shell
-Ardından bu 'dist' klasörü içine: (app.html ve degen.jpeg dosyalarını) ekleyelim.
-```
 
 
 
