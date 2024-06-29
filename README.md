@@ -11,6 +11,8 @@ Ardından bu 'dist' klasörü içine: (app.html ve degen.jpeg dosyalarını) ekl
 app.html içine bu kodu yapıştırıyoruz:
 
 
+```shell
+
 <html>
     <head>
         <script>
@@ -29,3 +31,5 @@ app.html içine bu kodu yapıştırıyoruz:
         <img src="./degen.jpeg" alt="">
     </body>
 </html>
+
+```
