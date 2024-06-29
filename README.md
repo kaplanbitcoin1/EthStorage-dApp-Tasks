@@ -165,7 +165,7 @@ ethfs-cli upload -f dist -a (yeni-flat-directory-adres) -c 11155111 -p (Private-
 ```console
 İLKFLATADRESİMİZ.3333.w3link.io/app.html
 ```
-### Daha Sonra: Twitter'da bir tweet paylaşmamız gerekiyor. w3link ve işlemleri yaptığımız (twitterdan seçilen) adresimizi bu tweete ekleyelim ve EthStorage'yi etiketleyelim.
+### Daha Sonra: Twitter'da bir tweet paylaşmamız gerekiyor. w3link ve işlemleri yaptığımız (twitterda seçilen) adresimizi bu tweete ekleyelim ve EthStorage'yi etiketleyelim.
 
 
 ### Son olarak [Bu forma](https://dawme4mo.forms.app/ethstorage-2nd-campaign-submission?ref=blog.ethstorage.io/) gelip paylaştığımız tweet'in Url'sini ekleyip mail bırakalım.
