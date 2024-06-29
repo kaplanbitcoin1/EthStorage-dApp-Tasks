@@ -1,7 +1,7 @@
 ```shell
 
 
-### -İlk olarak sunucumuzun root kısmına 'dist' ismiyle bir klasör oluşturalım.
+-İlk olarak sunucumuzun root kısmına 'dist' ismiyle bir klasör oluşturalım.
 (Ben -Visiul Studio Code- kullandım, tercih sizin.)
 
 ```
