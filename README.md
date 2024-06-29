@@ -44,7 +44,7 @@
 > Eğer hazırsanız kemerlerinizi bağlayın, dApp oluşturmaya başlıyoruz.
 
   
-# NOT: "Bu işlemleri onaylanan cüzdan adresimizle yapıyoruz, unutmayın, boşa kürek çekmeyelim."
+### NOT: "Bu işlemleri onaylanan cüzdan adresimizle yapıyoruz, unutmayın, boşa kürek çekmeyelim."
 
 
 > İlk olarak ufak bir contract deploy işlemimiz olacak. Bunu Remix üzerinden rahatlıkla yapabilirsiniz. [Deploy Sepolia](https://remix.ethereum.org/)
@@ -70,8 +70,7 @@ npm i -g ethfs-cli
 ### FlatDirectory Contract Oluşturalım.
 
 (Bu kod bize ileride kullanacağımız Flat adresimizi ve ip adresini verecek. Kaydetmeyi unutmayın.)
-  
-- Önemli: "Seçilen cüzdan adresimizin Private Key'ini giriyoruz." (Tabii tırnakları silmeden olmaz.)
+Önemli: "Seçilen cüzdan adresimizin Private Key'ini giriyoruz." (Tabii tırnakları silmeden olmaz.)
 
 
 ```console
