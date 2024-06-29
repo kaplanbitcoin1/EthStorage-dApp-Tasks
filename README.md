@@ -157,6 +157,10 @@ ethfs-cli upload -f dist -a (yeni-flat-directory-adres) -c 11155111 -p (Private-
 <img width="997" alt="Ekran Resmi 2024-06-29 16 30 00" src="https://github.com/kaplanbitcoin1/EthStorage-dApp-Tasks/assets/98455323/c236adba-b446-4b1f-bf55-dfe814718104">
 
 
-### İsteyen dosya isimlerini değiştirip birkaç farklı işlem yapabilir. En son dosya isimlerini tekrardan app.html ve degen.jpeg olarak değiştirip son bir işlem aldım. Neden diye sorma. 
+### İsteyen dosya isimlerini değiştirip birkaç farklı işlem yapabilir.
+
+### Şimdi gelelim başvuru kısmına.
+
+
 
 
