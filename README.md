@@ -1,9 +1,7 @@
 ```shell
 
-
 İlk olarak sunucumuzun root kısmına 'dist' ismiyle bir klasör oluşturalım.
 (Ben Visual Studio Code kullandım, tercih sizin.)
-
 
 ```
 
