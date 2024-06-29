@@ -139,7 +139,8 @@ eth-blob-uploader -r (Sepolia RPC) -p (Private-Key) -f dist/degen.jpeg -t (FlatD
 <img width="601" alt="Ekran Resmi 2024-06-29 16 14 47" src="https://github.com/kaplanbitcoin1/EthStorage-dApp-Tasks/assets/98455323/0e60beeb-4bd7-42c4-8031-37ea2f918fe8">
 
 
-### Son olarak dApp'imizi ETH+EthStorage ile dağıtalım.
+### Son olarak dApp'imizi ETH+EthStorage ile dağıtalım. (Bu opsiyonel) 
+### Sunucudan app.html ve degen.jpeg dosyasını: 'app1.html ve degen1.jpeg' olarak değiştirin.
 
 ```console
 ethfs-cli create -p (Private-Key) -c 11155111
@@ -150,6 +151,11 @@ ethfs-cli create -p (Private-Key) -c 11155111
 ```console
 ethfs-cli upload -f dist -a (yeni-flat-directory-adres) -c 11155111 -p (Private-Key) -t 2
 ```
+
+### İşlemlerden sonra böyle bir çıktı almanız gerekiyor. 
+
+<img width="997" alt="Ekran Resmi 2024-06-29 16 30 00" src="https://github.com/kaplanbitcoin1/EthStorage-dApp-Tasks/assets/98455323/c236adba-b446-4b1f-bf55-dfe814718104">
+
 
 
 
