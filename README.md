@@ -5,11 +5,7 @@
 (Ben Visual Studio Code kullandım, tercih sizin.)
 
 
-
-
 ```
-
-
 
 
 
