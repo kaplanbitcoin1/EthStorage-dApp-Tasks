@@ -104,4 +104,4 @@ web3://flat-adresimiz:11155111/app.html
 flat-adresimiz.sep.w3link.io/app.html
 ```
 
-### Sanırım başardın. - LFG, Degen! yazısı ile birlikte en başta oluşturduğunuz degen.jpeg dosyasındaki fotoğrafınızın görünüyor olması gerekiyor.
+### LFG, Degen! yazısı ile birlikte en başta oluşturduğumuz degen.jpeg dosyasındaki fotoğrafınızın görünüyor olması gerekiyor.
