@@ -104,9 +104,11 @@ web3://flat-adresimiz:11155111/app.html
 flat-adresimiz.sep.w3link.io/app.html
 ```
 
-<img width="1042" alt="Ekran Resmi 2024-06-29 15 58 56" src="https://github.com/kaplanbitcoin1/EthStorage-dApp-Tasks/assets/98455323/513580d0-a27a-4ecd-a5e6-33564f9527eb">
 
 ### LFG, Degen! yazısı ile birlikte en başta oluşturduğunuz degen.jpeg dosyasındaki fotoğrafın görünüyor olması gerekiyor.
+
+<img width="1042" alt="Ekran Resmi 2024-06-29 15 58 56" src="https://github.com/kaplanbitcoin1/EthStorage-dApp-Tasks/assets/98455323/513580d0-a27a-4ecd-a5e6-33564f9527eb">
+
 
 ```console
 Sonlara yaklaşıyoruz 🐈
