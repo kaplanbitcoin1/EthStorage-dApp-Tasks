@@ -38,7 +38,7 @@
 ```
 
 
-> 'Dikkat edelim fotoğrafın uzantısı jpeg uzantılı olmalı yoksa ileride hata alırsınız' (Denendi) :)
+> 'Dikkat edelim fotoğrafın uzantısı jpeg olmalı yoksa ileride hata alırsınız' (Denendi) :)
 
 
 > Eğer hazırsanız kemerlerinizi bağlayın, dApp oluşturmaya başlıyoruz.
