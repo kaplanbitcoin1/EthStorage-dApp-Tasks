@@ -49,3 +49,15 @@
 
 - İlk olarak ufak bir contract deploy işlemimiz olacak. Bunu Remix üzerinden rahatlıkla yapabilirsiniz. [Deploy Sepolia](https://remix.ethereum.org/)
 
+  
+```shell
+  pragma solidity >=0.8.2 <0.9.0;
+
+contract App {
+    function greeting() public pure returns (string memory) {
+        return "LFG, Degen!";
+    }
+}
+```
+
+
