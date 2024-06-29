@@ -101,5 +101,5 @@ web3://flat-adresimiz:11155111/app.html
 # Normalde link üzerinden bağlanması gerekiyor ama Chrome gibi tarayıcılarda sorun çıkıyor. Direk olarak: 
 
 ```console
-flat-adresimiz:11155111/app.html
+flat-adresimiz.sep.w3link.io/app.html
 ```
