@@ -61,4 +61,11 @@ contract App {
 }
 ```
 
+- Ethfs-cli'yi yükleyelim.
+
+```shell
+npm i -g ethfs-cli
+```
+
+
 
