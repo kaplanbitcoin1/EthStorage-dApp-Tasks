@@ -41,7 +41,7 @@
 ```
 
 
-### jpeg uzantılı dosyanız sizin fotoğrafınız olacak. 'Dikkat edin fotoğrafın uzantısı jpeg uzantılı olmalı yoksa ileride hata alırsınız' (Denendi) :)
+- jpeg uzantılı dosyanız sizin fotoğrafınız olacak. 'Dikkat edin fotoğrafın uzantısı jpeg uzantılı olmalı yoksa ileride hata alırsınız' (Denendi) :)
 
 
 - Eğer hazırsanız kemerleri bağlayan dApp oluşturmaya başlıyoruz. 
