@@ -132,3 +132,11 @@ eth-blob-uploader -r (Sepolia RPC) -p (Private-Key) -f dist/app.html -t (FlatDir
 ```console
 eth-blob-uploader -r (Sepolia RPC) -p (Private-Key) -f dist/degen.jpeg -t (FlatDirectoryAdres)
 ```
+
+
+### Hem app.html hem de degen.jpeg komutundan sonra bu şekilde tx almanız lazım.
+
+<img width="538" alt="Ekran Resmi 2024-06-29 16 12 21" src="https://github.com/kaplanbitcoin1/EthStorage-dApp-Tasks/assets/98455323/26da0d1e-11d1-4af2-b06f-79287995dcc7">
+
+
+
