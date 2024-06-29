@@ -38,10 +38,10 @@
 ```
 
 
-> jpeg uzantılı dosyanız sizin fotoğrafınız olacak. 'Dikkat edin fotoğrafın uzantısı jpeg uzantılı olmalı yoksa ileride hata alırsınız' (Denendi) :)
+> 'Dikkat edelim fotoğrafın uzantısı jpeg uzantılı olmalı yoksa ileride hata alırsınız' (Denendi) :)
 
 
-> Eğer hazırsanız kemerlerinizi bağlayın dApp oluşturmaya başlıyoruz.
+> Eğer hazırsanız kemerlerinizi bağlayın, dApp oluşturmaya başlıyoruz.
 
   
 # NOT: "Bu işlemleri onaylanan cüzdan adresimizle yapıyoruz, unutmayın, boşa kürek çekmeyelim."
