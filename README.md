@@ -168,10 +168,12 @@ ethfs-cli upload -f dist -a (yeni-flat-directory-adres) -c 11155111 -p (Private-
 ### Daha Sonra: Twitter'da bir tweet paylaşmamız gerekiyor. W3link ve işlemleri yaptığımız (twitterdan seçilen) adresimizi bu tweete ekleyelim ve EthStorage'yi etiketleyelim.
 
 
-### Son olarak [Bu forma](https://dawme4mo.forms.app/ethstorage-2nd-campaign-submission?ref=blog.ethstorage.io/) gelip paylaştığımız tweet'in Url'sini ekleyip mail bırakalım. 
+### Son olarak [Bu forma](https://dawme4mo.forms.app/ethstorage-2nd-campaign-submission?ref=blog.ethstorage.io/) gelip paylaştığımız tweet'in Url'sini ekleyip mail bırakalım.
+
+### Onayladıklarında 5000 puan gelecek. [Buradan](https://ethstorage.knack.com/campaigns/) kontrol edebilirsiniz. 
 
 * 🐅 Sanırım başardın 🐅
-* 🐅 Bayağı uğraştıran bir içerik oldu benim için. Bir yıldız bırakırsan sevinirim 🐅
+* 🐅 Benim için bayağı uğraştıran bir içerik oldu. Bir yıldız bırakırsan sevinirim 🐅
 
 
 
