@@ -141,11 +141,15 @@ eth-blob-uploader -r (Sepolia RPC) -p (Private-Key) -f dist/degen.jpeg -t (FlatD
 
 ### Son olarak dApp'imizi ETH+EthStorage ile dağıtalım.
 
-```shell
+```console
 ethfs-cli create -p (Private-Key) -c 11155111
 ```
+### Bu kod bize yeni bir Flat adres verecek, kaydedelim.
 
-ethfs-cli upload -f dist -a <flat directory address> -c 11155111 -p 0x112233... -t 2
+
+```console
+ethfs-cli upload -f dist -a (yeni-flat-directory-adres) -c 11155111 -p (Private-Key) -t 2
+```
 
 
 
