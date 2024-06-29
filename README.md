@@ -80,7 +80,7 @@ ethfs-cli create -p "Private Key" -c 11155111
 ```
 
 
-### Uygulamamızı Deploy edelim. (parantezler silinsin)
+### Uygulamamızı Deploy edelim. (Parantezler 😁)
 
 ```console
 ethfs-cli upload -f dist -a (flat-adresimiz) -c 11155111 -p (private-keyimiz) -t 1
