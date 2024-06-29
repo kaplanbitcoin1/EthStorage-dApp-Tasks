@@ -115,9 +115,10 @@ Sonlara yaklaşıyoruz 🐈
 ```
 
 
-### Maaliyetleri azaltmak için EIP-4844 BLOB kullanalım.
+### Maaliyetleri azaltmak için EIP-4844 BLOB kullanalım.
 
-### Bunun için Eth-Blob-Uploader'i yüklememiz gerekiyor.
+### Bunun için Eth-Blob-Uploader'i yüklememiz gerekiyor.
+
 
 ```console
 npm i -g eth-blob-uploader
