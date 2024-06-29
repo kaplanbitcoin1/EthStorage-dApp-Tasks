@@ -172,8 +172,10 @@ ethfs-cli upload -f dist -a (yeni-flat-directory-adres) -c 11155111 -p (Private-
 
 ### Onayladıkları zaman 5000 puan kazanmış olacağız. [Buradan](https://ethstorage.knack.com/campaigns/) kontrol edebilirsiniz. 
 
+
+
 * 🐅 Sanırım başardın 🐅
-* 🐅 Benim için bayağı uğraştıran bir içerik oldu. Bir yıldız bırakırsan sevinirim 🐅
+
 
 
 
