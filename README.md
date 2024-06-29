@@ -68,4 +68,11 @@ npm i -g ethfs-cli
 ```
 
 
+- FlatDirectory Contract Oluşturuyoruz.
+- Önemli: "Seçilen cüzdan adresimizin Private Key'ini giriyoruz." (Tabii ki tırnakları da siliyoruz.)
+
+
+```shell
+ethfs-cli create -p "Private Key" -c 11155111
+```
 
