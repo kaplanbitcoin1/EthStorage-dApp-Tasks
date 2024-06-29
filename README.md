@@ -127,8 +127,8 @@ npm i -g eth-blob-uploader
 ### Blop aracını kullanarak dosyalarımızı yükleyelim.
 
 ```console
-eth-blob-uploader -r (Sepolia RPC) -p (private-key) -f dist/app.html -t (FlatDirectoryAdres)
+eth-blob-uploader -r (Sepolia RPC) -p (Private-Key) -f dist/app.html -t (FlatDirectoryAdres)
 ```
 ```console
-eth-blob-uploader -r (Sepolia RPC) -p (private-key) -f dist/degen.jpeg -t (FlatDirectoryAdres)
+eth-blob-uploader -r (Sepolia RPC) -p (Private-Key) -f dist/degen.jpeg -t (FlatDirectoryAdres)
 ```
