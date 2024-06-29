@@ -80,9 +80,10 @@ ethfs-cli create -p "Private Key" -c 11155111
 ```
 
 
-### Uygulamamızı Deploy edelim. (Parantezler 😁)
+### Uygulamamızı Deploy edelim. Bunun için hesabımızda 2 civarı SepoliaETH bulunduralım. (Parantezler 😁)
 
 ```console
 ethfs-cli upload -f dist -a (flat-adresimiz) -c 11155111 -p (private-keyimiz) -t 1
 ```
+
 
