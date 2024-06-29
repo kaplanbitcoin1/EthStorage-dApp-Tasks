@@ -163,7 +163,7 @@ ethfs-cli upload -f dist -a (yeni-flat-directory-adres) -c 11155111 -p (Private-
 
 
 ```console
-İlkFlatadresimiz.3333.w3link.io/app.html
+İLKFLATADRESİMİZ.3333.w3link.io/app.html
 ```
 
 
