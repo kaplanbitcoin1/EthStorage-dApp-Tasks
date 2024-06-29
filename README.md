@@ -69,7 +69,7 @@ npm i -g ethfs-cli
 
 ### FlatDirectory Contract Oluşturalım.
 
-(Bu kod bize ileride kullanacağımız Flat adresimizi ve ip adresini verecek. Kaydetmeyi unutmayın.)
+(Bu kod bize ileride kullanacağımız FlatDirectory adresimizi ve ip adresini verecek. Kaydetmeyi unutmayın.)
 
 ### Önemli: "Seçilen cüzdan adresimizin Private Key'ini giriyoruz." (Tabii tırnakları silmeden olmaz.)
 
