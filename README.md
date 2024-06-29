@@ -1,6 +1,4 @@
-#
-
--İlk olarak sunucumuzun root kısmına 'dist' ismiyle bir klasör oluşturalım. (Ben -Visiul Studio Code- kullandım, tercih sizin.)
+###-İlk olarak sunucumuzun root kısmına 'dist' ismiyle bir klasör oluşturalım. (Ben -Visiul Studio Code- kullandım, tercih sizin.)
 
 #
 
