@@ -11,7 +11,7 @@
 
 
 
-+ app.html içine bu kodu yapıştırıyoruz:
+### app.html içine bu kodu yapıştırıyoruz:
 
 
 
