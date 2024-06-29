@@ -44,6 +44,8 @@
 - jpeg uzantılı dosyanız sizin fotoğrafınız olacak. 'Dikkat edin fotoğrafın uzantısı jpeg uzantılı olmalı yoksa ileride hata alırsınız' (Denendi) :)
 
 
-- Eğer hazırsanız kemerleri bağlayan dApp oluşturmaya başlıyoruz. 
+- Eğer hazırsanız kemerlerinizi bağlayın dApp oluşturmaya başlıyoruz. 
 
+
+- İlk olarak ufak bir contract deploy işlemimiz olacak. Bunu Remix üzerinden rahatlıkla yapabilirsiniz. [Deploy Sepolia](https://remix.ethereum.org/)
 
