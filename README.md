@@ -159,7 +159,14 @@ ethfs-cli upload -f dist -a (yeni-flat-directory-adres) -c 11155111 -p (Private-
 
 ### İsteyen dosya isimlerini değiştirip birkaç farklı işlem yapabilir.
 
-### Şimdi gelelim başvuru kısmına.
+### Şimdi gelelim başvuru kısmına. İlk olarak:
+
+
+```console
+İlkFlatadresimiz.3333.w3link.io/app.html
+```
+
+
 
 
 
