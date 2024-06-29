@@ -98,8 +98,10 @@ ethfs-cli upload -f dist -a (flat-adresimiz) -c 11155111 -p (private-keyimiz) -t
 web3://flat-adresimiz:11155111/app.html
 ```
 
-# Normalde link üzerinden bağlanması gerekiyor ama Chrome gibi tarayıcılarda sorun çıkıyor. Direk olarak: 
+# Normalde link üzerinden bağlanması gerekiyor ama Chrome gibi tarayıcılarda sorun çıkıyor. Şöyle deneyelim 😁
 
 ```console
 flat-adresimiz.sep.w3link.io/app.html
 ```
+
+### LFG, Degen! yazısı ile birlikte en başta oluşturduğunuz degen.jpeg dosyasındaki fotoğrafınızın görünüyor olması gerekiyor.
