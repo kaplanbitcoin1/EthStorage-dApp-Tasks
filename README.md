@@ -17,7 +17,7 @@
 
 
 
-```console
+```shell
 
 <html>
     <head>
