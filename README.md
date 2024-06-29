@@ -97,3 +97,9 @@ ethfs-cli upload -f dist -a (flat-adresimiz) -c 11155111 -p (private-keyimiz) -t
 ```console
 web3://flat-adresimiz:11155111/app.html
 ```
+
+# Normalde link üzerinden bağlanması gerekiyor ama Chrome gibi tarayıcılarda sorun çıkıyor. Direk olarak: 
+
+```console
+flat-adresimiz:11155111/app.html
+```
