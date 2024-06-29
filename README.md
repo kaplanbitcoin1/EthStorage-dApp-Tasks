@@ -68,7 +68,7 @@ npm i -g ethfs-cli
 ```
 
 ```console
-- FlatDirectory Contract Oluşturalım.
+FlatDirectory Contract Oluşturalım.
 ```
 
 (Bu kod bize ileride kullanacağımız Flat adresimizi ve ip adresini verecek. Kaydetmeyi unutmayın.)
@@ -76,7 +76,7 @@ npm i -g ethfs-cli
 - Önemli: "Seçilen cüzdan adresimizin Private Key'ini giriyoruz." (Tabii tırnakları silmeden olmaz.)
 
 
-```shell
+```console
 ethfs-cli create -p "Private Key" -c 11155111
 ```
 
