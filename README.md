@@ -87,3 +87,7 @@ ethfs-cli upload -f dist -a (flat-adresimiz) -c 11155111 -p (private-keyimiz) -t
 ```
 
 
+<img width="1069" alt="Ekran Resmi 2024-06-29 15 36 33" src="https://github.com/kaplanbitcoin1/EthStorage-dApp-Tasks/assets/98455323/7b1cdd8c-eb19-4c12-9922-690792d4b17e">
+
+### Bu şekilde tx çıktısı atmamız gerekiyor. Birkaç defa bu işlemi yapsak iyi olur En azından ben öyle yaptım.
+
