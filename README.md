@@ -72,7 +72,7 @@ npm i -g ethfs-cli
 
 ###  🐅  Önemli: "Seçilen cüzdan adresimizin Private Key'ini giriyoruz." (Tabii tırnakları silmeden olmaz.)
 
-(Bu kod bize ileride kullanacağımız FlatDirectory adresimizi ve ip adresini verecek. Kaydetmeyi unutmayın.)
+###  🐅  (Bu kod bize ileride kullanacağımız FlatDirectory adresimizi ve ip adresini verecek. Kaydetmeyi unutmayın.) 🐅
 
 
 ```console
