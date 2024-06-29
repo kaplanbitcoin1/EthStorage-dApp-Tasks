@@ -105,3 +105,7 @@ flat-adresimiz.sep.w3link.io/app.html
 ```
 
 ### LFG, Degen! yazısı ile birlikte en başta oluşturduğunuz degen.jpeg dosyasındaki fotoğrafın görünüyor olması gerekiyor.
+
+```console
+Sonlara yaklaşıyoruz 😳
+```
