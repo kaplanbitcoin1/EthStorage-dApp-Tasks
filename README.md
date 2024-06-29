@@ -39,3 +39,8 @@
 </html>
 
 ```
+
+
+# jpeg uzantılı dosyanız sizin fotoğrafınız olacak. 'Dikkaet edin fotoğrafın uzantısı jpeg uzantılı olmalı yoksa ileride hata alırsınız' (Denendi) :)
+
+
