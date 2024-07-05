@@ -178,12 +178,3 @@ ethfs-cli upload -f dist -a (yeni-flat-directory-adres) -c 11155111 -p (Private-
 
 
 
-
-```ruby
-sudo systemctl stop tracksd 
-sudo systemctl daemon-reload
-sudo systemctl enable tracksd
-sudo systemctl restart tracksd
-sudo journalctl -u tracksd -fo cat
-```
-
